@@ -1,4 +1,4 @@
-# FedoraFreedom 🌐🔓
+# FedoraFreedom by ayush🌐🔓
 
 Embrace the latest technologies on your Android device with FedoraFreedom! 🚀
 # installation
