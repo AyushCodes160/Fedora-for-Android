@@ -21,3 +21,4 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 - Connect with the FedoraFreedom community on our dedicated forums.
 
 Experience the freedom of Fedora on your Android device! 💻📱 #FedoraFreedom #AndroidLinuxInnovation
+ 
